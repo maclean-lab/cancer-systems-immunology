@@ -1,6 +1,4 @@
-# cancer-systems-immunology-
-
-Cancer systems immunology reveals myeloid—T cell interactions and B cell activation mediate response to checkpoint inhibition in metastatic breast cancer
+# Cancer systems immunology reveals myeloid—T cell interactions and B cell activation mediate response to checkpoint inhibition in metastatic breast cancer
 
 Authors: Edgar Gonzalez1*, Jesse Kreger2*, Yingtong Liu2, Xiaojun Wu2, Arianna Barbetta3, Aaron G. Baugh1, Batul Al-Zubeidy1, Julie Jang1, Sarah M. Shin4, Zhehao Zhang4, Matthew Jacobo1, Vered Stearns5, Roisin M. Connolly6, Won Jin Ho4, Juliet Emamaullee3, Adam L. MacLean2**, Evanthia T. Roussos Torres1**
 
