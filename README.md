@@ -18,7 +18,7 @@ Affiliations:
 ### Project contents
  - `Supplementary File 1` : description
  - `Supplementary File 2` : description
- - `Supplementary File 3` : description
+ - `Supplementary File 3` : full searchable cellchat results for 4 treatment conditions (V, E, EPC, and PC) for CC-suppression and CC-model 
 
 ### Contributors
 <a href="https://github.com/maclean-lab/FMCs_for_HSCs/graphs/contributors">
