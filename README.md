@@ -16,8 +16,8 @@ Affiliations:
 6.	University College Cork, Cork, Ireland
 
 ### Project contents
- - `Supplementary File 1` : description
- - `Supplementary File 2` : description
+ - `Supplementary File 1` : signature gene markers for scRNA-seq
+ - `Supplementary File 2` : flow cytometry antibody panels with catalogue numbers
  - `Supplementary File 3` : full searchable cellchat results for 4 treatment conditions (V, E, EPC, and PC) for CC-suppression and CC-model 
 
 ### Contributors
