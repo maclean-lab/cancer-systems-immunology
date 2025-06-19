@@ -18,14 +18,14 @@ Affiliations:
 
 ### Project contents
  - `Supplementary Files` : Supplementary files for data and analysis
+     - `Supplementary File 1` : signature gene markers for scRNA-seq
+     - `Supplementary File 2` : flow cytometry antibody panels with catalogue numbers
+     - `Supplementary File 3` : full searchable cellchat results for 4 treatment conditions (V, E, EPC, and PC) for CC-suppression and CC-model 
  - `Single-cell` : Python/R code for single-cell processing and analysis
  - `Mathematical modeling` : Julia code for mathematical modeling of treatment on the TME
  - `CellChat` : R code for CellChat analysis
  - `Cell circuit` : Mathematica code for Cell circuit analysis
  - `IMC` : R code for IMC analysis
- - `Supplementary File 1` : signature gene markers for scRNA-seq
- - `Supplementary File 2` : flow cytometry antibody panels with catalogue numbers
- - `Supplementary File 3` : full searchable cellchat results for 4 treatment conditions (V, E, EPC, and PC) for CC-suppression and CC-model 
 
 ### Contributors
 <a href="https://github.com/maclean-lab/FMCs_for_HSCs/graphs/contributors">
