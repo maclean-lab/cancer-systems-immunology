@@ -26,8 +26,3 @@ Affiliations:
  - `CellChat` : R code for CellChat analysis
  - `Cell circuit` : Mathematica code for Cell circuit analysis
  - `IMC` : R code for IMC analysis
-
-### Contributors
-<a href="https://github.com/maclean-lab/FMCs_for_HSCs/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=maclean-lab/FMCs_for_HSCs" />
-</a>
